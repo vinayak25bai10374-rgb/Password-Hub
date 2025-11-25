@@ -63,8 +63,6 @@ No external libraries required — only built-in modules:
 Use the following command:
 `python main.py`
 
-(replace filename if needed)
-
 ---
 
 ## License
